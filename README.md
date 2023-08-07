@@ -1,4 +1,4 @@
-# Armand Carstens || Junior Developer || Coding scripts at the age of 14 || 🌍 Based in Southern Africa
+# Armand Carstens || Junior Developer || 🌍 Based in Southern Africa
 
 ## 👀 I’m interested in 
 
