@@ -1,15 +1,4 @@
-# Armand Carstens || Junior Developer || 🌍 Based in Southern Africa
-
-## 👀 I’m interested in 
-
-  1. SAP ⚛️
-     `We walk among great giants`
-  2. Python 🐍
-     `ML & DL Pytorch modules are fun and new to me, whilst very familiar with it.` 
-  3. Javascript Frameworks 🟨
-  4. C/C++/Assembly ☄️
-  
-
+# Armand Carstens || Software Developer || 🌍 Based in Southern Africa
 
 ## 📫 How to reach me ...
 ### Instagram: [@armand.carstens](https://www.instagram.com/armand.carstens/)
